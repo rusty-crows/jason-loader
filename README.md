@@ -1,2 +1,2 @@
 # jason-loader
-A performatic json loader written inrust
+A performatic json loader written in rust
