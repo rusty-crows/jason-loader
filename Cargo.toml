@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "jlo-api",
+    "jlo-lib"
+]
